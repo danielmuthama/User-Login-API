@@ -8,5 +8,5 @@ urlpatterns = [
 
 ]
 
-admin.site.site_header = 'Kemri-Users'
+admin.site.site_header = 'Kemri Users'
 
